@@ -1,6 +1,4 @@
-//
-// Created by sapir on 25/12/17.
-//
+
 
 #include <iostream>
 #include "ScreenView.h"
@@ -9,27 +7,7 @@ ScreenView::ScreenView(){}
 void ScreenView::printString(string s){
     cout<<s;
 }
-/*void ScreenView::printBoard(Board&board){
-    for(int n=0; n<board.getSize(); n++){
-        cout <<" | "<<n+1;
-    }
-    cout << " |";
-    cout<< endl;
-    cout<<string(((board.getSize())*4)+2, '-')<<endl;
-    for(int i=0; i<board.getSize(); i++) {
-        cout << i+1<<"|";
-        for(int j=0; j<board.getSize(); j++) {
-            if ((*board.getArr()[i][j]).getVal()=='X' || (*board.getArr()[i][j]).getVal()=='O'){
-                cout<<" "<< (*board.getArr()[i][j]).getVal()<<" |";
-            } else {
-                cout << "   |";
-            }
-        }
-        cout<<endl;
-        cout<<string(board.getSize()*4+2, '-')<<endl;
-    }
-    cout<<endl;
-}*/
+
 void ScreenView::printStringWithParameterParameterBefore(string s, char n){
     cout<<n<<s;
 }

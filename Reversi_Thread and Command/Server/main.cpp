@@ -1,6 +1,4 @@
-//
-// Created by sapir on 23/12/17.
-//
+
 #include "Server.h"
 #include <cstdlib>
 #include <fstream>

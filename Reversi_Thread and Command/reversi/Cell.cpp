@@ -1,7 +1,4 @@
-/**
- * hadas berger: 316590215
- * sapir yamin: 316251818
- **/
+
 #include "Cell.h"
 #include <iostream>
 Cell::Cell(int posRo,int posCo) {

@@ -1,7 +1,4 @@
-/**
- * hadas berger: 316590215
- * sapir yamin: 316251818
- **/
+
 
 #ifndef EX3ADVENCED_LOGIC_H
 #define EX3ADVENCED_LOGIC_H

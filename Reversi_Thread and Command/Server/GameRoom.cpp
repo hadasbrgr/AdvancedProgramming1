@@ -1,6 +1,4 @@
-//
-// Created by sapir on 23/12/17.
-//
+
 
 #include "GameRoom.h"
 GameRoom::GameRoom(string gameName1, int firstClient1, int secondClient1){

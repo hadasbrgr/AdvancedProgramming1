@@ -1,6 +1,4 @@
-//
-// Created by sapir on 24/12/17.
-//
+
 
 #include <unistd.h>
 #include "Command.h"

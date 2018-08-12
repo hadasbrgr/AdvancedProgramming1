@@ -1,6 +1,4 @@
-//
-// Created by sapir on 22/12/17.
-//
+
 
 #include "CommandsManager.h"
 #include "PrintCommand.cpp"
